@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
 
-	//added a commend
+	//Create a new branch
 	cout << "Hello Github" << endl; // prints Hello refactor
 	return 0;
 }
